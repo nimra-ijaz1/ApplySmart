@@ -1,0 +1,6 @@
+{
+  "name": "ApplySmart",
+  "description": "AI-powered university application management platform for discovering universities, checking deterministic programme eligibility, finding scholarships, managing documents, and tracking study-abroad applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
